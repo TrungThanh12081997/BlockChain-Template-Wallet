@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('ClearSans-Medium.woff2') format('woff2'),
+        url('ClearSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('ClearSans-Thin.woff2') format('woff2'),
+        url('ClearSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

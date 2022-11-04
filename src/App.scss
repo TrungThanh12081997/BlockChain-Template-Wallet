@@ -1,0 +1,26 @@
+// Libraries
+@import "antd/dist/antd.min.css";
+
+// Setup
+@import './styles/common.scss';
+
+
+
+@import './components/Wallet/index.scss';
+@import './components/Button/index.scss';
+
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+.ant-layout-content {
+    background-color: $isabelline;
+    padding: rem(16);
+}
+
+.ant-notification-notice-message {
+    margin: 0;
+}
